@@ -8,7 +8,13 @@ import { createRoot } from 'react-dom/client';
 // import App from './04_循环渲染'
 // import App from './05_属性props'
 // import App from './06_表单的受控和非受控';
-import App from './07_子传父'
+// import App from './07_子传父'
+// import App from './08_ref通信'
+// import App from './09_非父子通信(状态提升)'
+// import App from './12_插槽'
+import App from './13_生命周期'
+
+
 import './app.css'
 const root = createRoot(document.getElementById('root'));
 root.render(
