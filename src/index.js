@@ -12,7 +12,12 @@ import { createRoot } from 'react-dom/client';
 // import App from './08_ref通信'
 // import App from './09_非父子通信(状态提升)'
 // import App from './12_插槽'
-import App from './13_生命周期'
+// import App from './13_生命周期'
+// import App from './14_PureComponent'
+// import App from './hooks/01_useState'
+// import App from './hooks/02_todolist'
+import App from './hooks/03_useEffect'
+
 
 
 import './app.css'

@@ -16,8 +16,6 @@ class App extends Component {
         this.setState({
             son1Data: val
         }, () => {
-            console.log(this.state.son1Data, 'son1data');
-            console.log(val, 'val');
             if (callback) callback()
         })
     }
